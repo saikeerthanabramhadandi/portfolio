@@ -65,8 +65,8 @@ export default function App() {
       title: "Personal Portfolio Website",
       icon: <FaGlobe className="text-6xl text-cyan-400" />,
       desc: "Responsive developer portfolio showcasing skills, projects and contact system.",
-      github: "https://github.com/Navya-Potula/FUTURE_FS_01",
-      live: "https://future-fs-01-amber.vercel.app/"
+      github: "https://github.com/saikeerthanabramhadandi/portfolio",
+      live: "https://portfolio-two-alpha-txzlqx0hd7.vercel.app/"
     },
     {
       title: "MultiViewer UI Project",
@@ -181,7 +181,7 @@ export default function App() {
           sequence={[
             "Full Stack Developer",
             2000,
-            "React Developer",
+            "MERN Stack Developer",
             2000,
             "Frontend Enthusiast",
             2000,
@@ -401,7 +401,7 @@ export default function App() {
       </section>
       <div className="flex justify-center">
         <a
-          href="certificates.pdf"
+          href="certificatess.pdf"
           target="_blank"
           rel="noreferrer"
         >
